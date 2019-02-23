@@ -4,3 +4,6 @@ hades
 hera
 demeter
 ares
+athena
+apollo
+artemis
