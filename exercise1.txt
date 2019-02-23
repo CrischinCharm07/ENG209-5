@@ -1,3 +1,6 @@
 zues
 poseidon
 hades
+hera
+demeter
+ares
